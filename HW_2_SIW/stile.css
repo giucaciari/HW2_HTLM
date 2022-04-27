@@ -1,0 +1,95 @@
+#title{
+	color:darkblue;
+
+}
+#sposta{
+	margin-left:40px;
+	width: 350px;    
+
+}
+#line{
+	margin-top:2px;
+	border-top: 1px solid darkblue;
+	border-bottom: 1px solid darkblue;
+
+}
+#sinistra{
+	border:2px solid darkblue;
+	margin-top:10px;
+	margin-left:40px;
+	margin-right:40px;
+	padding-left:15px;
+	padding-right:15px;
+	background-color:lightgrey;
+}
+#title1{
+	color:white;
+	border:1px solid teal;
+	background-color:teal;
+	font-size:15px;
+}
+#current{
+	margin-top:1px;
+}
+#service{
+	margin-top:1px;
+}
+#publications{
+	margin-top:1px;
+}
+#vedi{
+	margin-top:1px;
+}
+#others{
+	margin-top:1px;
+}
+body{
+	font-family: helvetica;
+}
+
+
+#flex-container{
+	display: inline-flex;
+	justify-content: start;
+}
+#last{
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.lastul{
+	list-style-type: square;
+}
+
+.titolo{
+	font-size: 60px;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+}
+
+#red{
+	color: red;
+	font-size: 25px;
+}
+
+.link2{
+	color: black;
+}
+
+#ricevimento{
+	color: white;
+	background-color: rgb(202, 66, 59);
+	padding: 30px;
+}
+
+.redhr{
+	border: 7px solid red;
+}
+
+.titlink{
+	font-size: 40px;
+	font-family: 'Oswald', sans-serif;
+	text-decoration: none;
+	color: black;
+}
